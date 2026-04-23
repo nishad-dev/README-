@@ -40,8 +40,7 @@ I enjoy exploring datasets, building models, and continuously improving my skill
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/
-muhammed-nishad-18525a250
+- LinkedIn: www.linkedin.com/in/muhammed-nishad-18525a250
 
 - Email: muhammednishadpm533@gmail.com
 
