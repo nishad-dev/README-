@@ -32,7 +32,7 @@ I enjoy working with data to uncover insights and support data-driven decisions.
 
 ## 📫 Contact Me
 
-- LinkedIn: linkedin.com/in/muhammed-nishad-18525a250
+- linkedin.com/in/muhammed-nishad-18525a250
 - Email:muhammeddnishadpm533@gmail.com
 
 
