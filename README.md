@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm MUHAMMED NISHAD PM 
 
 🎯 Data Analyst | 📊 Data Science Enthusiast  
 
@@ -40,8 +40,10 @@ I enjoy exploring datasets, building models, and continuously improving my skill
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: your.email@example.com  
+- LinkedIn: www.linkedin.com/in/
+muhammed-nishad-18525a250
+
+- Email: muhammednishadpm533@gmail.com
 
 ---
 
