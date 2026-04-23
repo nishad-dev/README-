@@ -1,44 +1,50 @@
-# 👋 Hi, I'm MUHAMMED NISHAD PM 
+# 👋 Hi, I'm [Your Name]
 
 🎯 Data Analyst | 📊 Data Science Enthusiast  
 
 ---
 
 ## 🚀 About Me
-I am a passionate Data Analyst with a strong interest in Data Science.  
-I enjoy working with data to uncover insights and support data-driven decisions.
+I am passionate about working with data and turning it into meaningful insights.  
+I enjoy exploring datasets, building models, and continuously improving my skills in data science.
 
-- 📊 Skilled in data analysis and visualization  
-- 🤖 Interested in machine learning and AI  
-- 📚 Always learning new tools and techniques  
+---
+
+## 🎯 Focus Areas
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning (Beginner to Intermediate)  
+- 🧹 Data Cleaning & Preprocessing  
+- 📈 Building Data-Driven Projects  
+- 🧠 Learning AI & Advanced Data Science  
 
 ---
 
 ## 🛠️ Skills
-
-- **Languages:** Python, SQL, 
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Excel, Power BI, Tableau  
-- **Concepts:** Data Cleaning, EDA, Basic Machine Learning  
+- **Concepts:** EDA, Data Cleaning, Basic ML Models  
 
 ---
 
 ## 📂 Projects
-
 - 📊 Sales Data Analysis  
 - 🤖 Customer Segmentation  
 - 📈 Predictive Modeling  
 
 ---
 
-## 📫 Contact Me
+## 🐍 Contribution Snake
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
-- linkedin.com/in/muhammed-nishad-18525a250
-- Email:muhammeddnishadpm533@gmail.com
+---
 
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: your.email@example.com  
 
 ---
 
 ## 💭 Quote
-
 "Without data, you're just another person with an opinion."  
 – W. Edwards Deming
