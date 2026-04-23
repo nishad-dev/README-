@@ -12,10 +12,10 @@ I enjoy exploring datasets, building models, and continuously improving my skill
 
 ## 🎯 Focus Areas
 - 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning (Beginner to Intermediate)  
+- 🤖 Machine Learning  
 - 🧹 Data Cleaning & Preprocessing  
-- 📈 Building Data-Driven Projects  
-- 🧠 Learning AI & Advanced Data Science  
+- 📈 Data-Driven Decision Making  
+- 🧠 AI & Advanced Analytics  
 
 ---
 
@@ -23,7 +23,20 @@ I enjoy exploring datasets, building models, and continuously improving my skill
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Excel, Power BI, Tableau  
-- **Concepts:** EDA, Data Cleaning, Basic ML Models  
+- **Concepts:** EDA, Data Cleaning, Machine Learning Basics  
+
+---
+
+## 📊 GitHub Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
 
 ---
 
@@ -34,14 +47,8 @@ I enjoy exploring datasets, building models, and continuously improving my skill
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/muhammed-nishad-18525a250
-
 - Email: muhammednishadpm533@gmail.com
 
 ---
